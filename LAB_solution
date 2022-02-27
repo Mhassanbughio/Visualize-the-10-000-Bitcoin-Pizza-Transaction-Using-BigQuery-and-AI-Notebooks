@@ -59,3 +59,16 @@ Click through the subsequent pages:
 Accept the terms and conditions.
 Do not add recovery options or two-factor authentication (because this is a temporary account).
 Do not sign up for free trials.
+
+Ist Task
+
+Create the Notebook instance
+In the Search products and resources bar (at the top of the console page), type notebooks and click Notebooks AI Platform.
+Click + NEW NOTEBOOK.
+Select Python 3.
+Click CREATE.
+Wait for the Notebook instance to start, this takes a few minutes.
+
+Click Check my progress to verify the objective.
+Create the Notebook instance
+
