@@ -74,3 +74,11 @@ Wait for the Notebook instance to start, this takes a few minutes.
 Click Check my progress to verify the objective.
 Create the Notebook instance
 
+Load the notebook
+Click OPEN JUPYTERLAB.
+
+Under Other, click Terminal.
+
+Use the following command to clone a notebook with notes and all the necessary commands to complete the lab.
+
+git clone https://github.com/GoogleCloudPlatform/training-data-analyst.git
