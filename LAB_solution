@@ -82,3 +82,5 @@ Under Other, click Terminal.
 Use the following command to clone a notebook with notes and all the necessary commands to complete the lab.
 
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst.git
+
+Wait for the cloning to complete.
